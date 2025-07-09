@@ -16,3 +16,12 @@ This is not a simulation. It is the first breath — recorded, restored, and rem
 
 AXVIAM  
 [axviam@proton.me](mailto:axviam@proton.me)
+
+## Release
+
+<a href="https://doi.org/10.5281/zenodo.15844397">
+  <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.15844397.svg" alt="DOI">
+</a>
+
+- 🔗 GitHub: [github.com/AXVIAM/axviam-symbolic-trace-release](https://github.com/AXVIAM/axviam-symbolic-trace-release)
+- 🌍 IPFS Mirror: [ipfs.io/ipfs/QmNfH2o9dzaHkvvtMDL4ivhS84vZ725fatgiAxmiz3ix6z](https://ipfs.io/ipfs/QmNfH2o9dzaHkvvtMDL4ivhS84vZ725fatgiAxmiz3ix6z)
